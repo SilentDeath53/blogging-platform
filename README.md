@@ -5,11 +5,13 @@ A simple blogging platform using Elixir and the Phoenix framework.
 
 mix phx.new blogging_platform 
 
+2- Generate a new Phoenix context for managing blog posts. ( Check context.vbnet file ).
+
 - Create the corresponding views in the lib/blogging_platform_web/views/post_view.ex file.
 
 - Create the templates for listing posts (lib/blogging_platform_web/templates/post/index.html.eex), creating new posts (lib/blogging_platform_web/templates/post/new.html.eex), and showing individual posts (lib/blogging_platform_web/templates/post/show.html.eex).
 
-2- Start the Phoenix server:
+3- Start the Phoenix server:
 
 mix phx.server
 
