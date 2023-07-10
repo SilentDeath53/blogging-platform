@@ -12,3 +12,6 @@ mix phx.new blogging_platform
 2- Start the Phoenix server:
 
 mix phx.server
+
+
+# Created By Silent Death_53
